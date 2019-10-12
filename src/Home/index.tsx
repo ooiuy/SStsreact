@@ -4,4 +4,4 @@ const Home = () => {
   return <p>Home page</p>
 }
 
-export { Home }
+export default Home

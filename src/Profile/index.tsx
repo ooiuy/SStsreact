@@ -4,4 +4,4 @@ const Profile = () => {
   return <p>Profile page</p>
 }
 
-export { Profile }
+export default Profile

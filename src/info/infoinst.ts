@@ -18,3 +18,6 @@ import React from 'react'
 //     Note: If you are currently using create-react-app-typescript, see this blog post for instructions on how to migrate to Create React App.
 //     Note: We recommend using VSCode for a better integrated experience.
 //     Note: Constant enums and namespaces are not supported.
+
+
+//npm install @types/reach__router
